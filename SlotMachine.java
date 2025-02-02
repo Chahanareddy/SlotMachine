@@ -1,7 +1,7 @@
 //name: Chahana Reddy and Saleena Saini
 //date: 2023-05-19
 //teacher: Ms. Basaraba
-//Assignment: Slots machine game
+//Assignment: Slot machine game
 
 
 import java.awt.*;  //gives access to java command libraries
