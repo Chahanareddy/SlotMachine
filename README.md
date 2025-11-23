@@ -1,3 +1,5 @@
+2022/10/01
+
 • A console-based slot machine game in Java, allowing multi-user gameplay through file handling and file writing.
 
 • Automated unique player data and individual balances saving to a file, allowing users to resume their game in future sessions.
